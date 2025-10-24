@@ -1,7 +1,84 @@
 # C_Valenciana_Digital
+
+Estudio cuantitativo/cualitatico C.Valenciana
+
 Proyecto de invesitgación del estado del arte sobre el uso de tecnologías IOT, sensorización  e IA para el desarrollo urbano, social  e industrial de las zonas locales, regionales y de la comunidad  Valenciana. En calqueir pueblo, pedania, aldea o ciudad de la Comuniodad Valencia. Y extensible a otras una vez terminado este proyecto.
 
 
+
+# IoT Edge en la Comunidad Valenciana 🌐
+
+## Descripción
+Mapa conceptual interactivo que analiza el impacto del Internet de las Cosas (IoT) y Edge Computing en la Comunidad Valenciana, enfocado en la convergencia entre Smart Cities e Industria 4.0.
+
+## 🎯 Objetivo del Proyecto
+Analizar críticamente el rol de las políticas públicas en la articulación de un ecosistema tecnológico que sincronice Smart Cities e Industria 4.0 en la Comunidad Valenciana.
+
+## 🗺️ Mapa Conceptual Interactivo
+👉 **[Ver Mapa Conceptual](https://github.com/jogugil/iot-edge-comunidad-valenciana/)**
+
+## 📊 Metodología
+1. **Análisis Cuantitativo**: Métricas de adopción de IoT en ambos sectores
+2. **Estudio Cualitativo**: Casos de estudio, barreras y oportunidades
+3. **Análisis Transversal**: Sinergias público-privadas
+4. **Propuestas**: Recomendaciones estratégicas
+
+## 🏗️ Estructura del Trabajo
+
+### Parte I: Fundamentos
+- Marco teórico y conceptual
+- Análisis cuantitativo del impacto actual
+
+### Parte II: Sector Público - Smart Cities
+- Políticas públicas y estrategias digitales
+- Casos de Valencia, Alicante, Castellón
+- Proyectos piloto y resultados
+
+### Parte III: Sector Privado - Industria 4.0
+- Sectores industriales clave (calzado, cerámica, textil, agroalimentario)
+- IoT y Edge Computing en la industria valenciana
+- Ecosistema empresarial y casos de éxito
+
+### Parte IV: Análisis Transversal
+- Sinergias público-privadas
+- Barreras y desafíos comunes
+- Evaluación de impacto global
+
+### Parte V: Futuro y Recomendaciones
+- Oportunidades de crecimiento
+- Recomendaciones estratégicas
+- Conclusiones
+
+## 🛠️ Tecnologías Utilizadas
+- HTML5
+- CSS3 (Grid, Flexbox, Animaciones)
+- JavaScript ES6+
+- GitHub Pages
+
+## 🎨 Características del Mapa
+- ✅ Interactividad completa
+- ✅ Diseño responsivo
+- ✅ Animaciones suaves
+- ✅ Código limpio y comentado
+- ✅ Accesibilidad web
+
+## 📚 Contexto Académico
+Este proyecto forma parte de un trabajo de máster sobre transformación digital en la Comunidad Valenciana, enfocado en el análisis de políticas públicas y su impacto en la implementación de tecnologías IoT y Edge Computing.
+
+## 👥 Contribuciones
+Las contribuciones son bienvenidas. Por favor, abre un issue antes de hacer cambios significativos.
+
+## 📄 Licencia
+MIT License - ver [LICENSE](LICENSE) para más detalles.
+
+## 📞 Contacto
+- **Autor**: José Javier Gutiérrez Gil
+- **Email**: jogugil@gmail.com
+- **Universidad**: Universidad de Valencia/ Universidad politecnica de Valencia
+- **Máster**: 
+
+---
+⭐ Si te parece útil este proyecto, ¡dale una estrella! 
 
 ----------------------------
 ## 🧠 Licencia
