@@ -104,7 +104,7 @@ La autoría y prioridad temporal de esta idea quedan acreditadas mediante su reg
 y en la plataforma SafeCreative con el código de registro
 
 El contenido documental, imágenes y archivos PDF están bajo licencia  
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  Mas las adaotaciones descritas con antelación.
 Consulta los términos en  
 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
 
